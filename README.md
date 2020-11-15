@@ -11,3 +11,5 @@ Conteúdo da aula postado no meu site
 Exercícios refeitos junta com a [Camila Coutinho Github @caamilacgs](https://github.com/caamilacgs)
 
 Obrigada Camila.
+
+![Logo do Programa Maria vai com as Devs](https://daviny.vidal.nom.br/img/maria.png)
