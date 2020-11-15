@@ -9,9 +9,11 @@
 Segue o link do site.
 - [Conteúdo da aula](https://daviny.vidal.nom.br/aprender/mvcad-05/)
 
-### 💻 Exercícios refeitos 
+### 💻 Exercícios: 
 
 Feitos os exercícios juntas com a [Camila Coutinho Github @caamilacgs](https://github.com/caamilacgs), sendo nossa guia no código.
+
+Obs.: seguimos os slides da aula da professora Alini e Priscila
 
 Obrigada Camila.
 
