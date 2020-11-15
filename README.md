@@ -8,7 +8,7 @@ Conteúdo da aula postado no meu site
 
 - [Conteúdo da aula](https://daviny.vidal.nom.br/aprender/mvcad-05/)
 
-Exercícios refeitos junta com a [Camila Coutinho Github @caamilacgs](https://github.com/caamilacgs)
+Exercícios refeitos juntas, tendo a [Camila Coutinho Github @caamilacgs](https://github.com/caamilacgs) com nossa guia no código.
 
 Obrigada Camila.
 
